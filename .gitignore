@@ -1,3 +1,6 @@
+*.gbc
+*.map
+*.sym
 # compiled objects
 *.o
 
