@@ -51,7 +51,7 @@ To set up the repository, see [**INSTALL.md**](INSTALL.md).
     You may find some mistakes in the translations. Please read the error and fix it. Usually it's just a minor inconvinience like some invalid char. 
     After you fix you just need to run make again.
 
-# Fork of Pokémon Yellow [![Build Status][ci-badge]][ci]
+# Fork of Pokémon Yellow 
 
 This is a disassembly of Pokémon Yellow.
 
