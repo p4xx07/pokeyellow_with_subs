@@ -1,0 +1,27 @@
+_Route11Gate1FGuardText::
+	text "Yakaladığında"
+	para "bir sürü #MON,"
+	line "lots of #MON,"
+	para "zor değil mi"
+	line "isn't it hard to"
+	para "isimleri mi düşü"
+	line "nüyorsun"
+	para "think up names?"
+
+	para "LAVANTA KASASI'n"
+	line "da"
+	para "In LAVENDER TOWN,"
+	para "bir adam var"
+	line "there's a man who"
+	para "oranlar #MON"
+	line "rates #MON"
+	para "takma adlar."
+	line "nicknames."
+
+	para "O sana yardım ed"
+	line "ece"
+	para "He'll help you"
+	para "onları da yenide"
+	line "n adlandırın"
+	para "rename them too!"
+	done

@@ -1,0 +1,36 @@
+_VermilionPokecenterFishingGuruText::
+	text "Öyle olsalar bil"
+	line ""
+	para "aynı seviyede,"
+	line "the same level,"
+	para "#MON sahip olabi"
+	line "li"
+	para "#MON can have"
+	para "çok farklı"
+	line "very different"
+	para "yetenekleri."
+	line "abilities."
+
+	para "Bir #MON büyüdü"
+	line "A #MON raised"
+	para "bir eğitmen tara"
+	line "fında"
+	para "by a trainer is"
+	para "birden daha güçl"
+	line ""
+	para "stronger than one"
+	para "vahşi doğada."
+	line "in the wild."
+	done
+
+_VermilionPokecenterSailorText::
+	text "Benim #MON'um şu"
+	line "yd"
+	para "zehirlendi! BT"
+	line "poisoned! It"
+	para "biz giderken bay"
+	line "ıldı"
+	para "fainted while we"
+	para "yürüyorlardı!"
+	line "were walking!"
+	done

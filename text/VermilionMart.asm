@@ -1,0 +1,43 @@
+_VermilionMartCooltrainerMText::
+	text "Kötülük var"
+	para "yapacak insanlar"
+	line "people who will"
+	para "için #MON kullan"
+	line "ı"
+	para "use #MON for"
+	para "suç eylemleri."
+	line "criminal acts."
+
+	para "ROKET TAKIMI"
+	line "TEAM ROCKET"
+	para "nadir trafik"
+	line "traffics in rare"
+	para "#MON."
+	line "#MON."
+
+	para "Onlar da terk ed"
+	line "iyorla"
+	para "They also abandon"
+	para "#MON onlar"
+	line "#MON that they"
+	para "yapmamayı düşün"
+	line "consider not to"
+	para "popüler olmak ve"
+	line "y"
+	para "be popular or"
+	para "kullanışlı."
+	line "useful."
+	done
+
+_VermilionMartCooltrainerFText::
+	text "Bence #MON"
+	para "iyi olabilir vey"
+	line ""
+	para "can be good or"
+	para "fenalık. Duruma "
+	line "göre değişi"
+	para "evil. It depends"
+	para "eğitmen üzerinde"
+	line ""
+	para "on the trainer."
+	done

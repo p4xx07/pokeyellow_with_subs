@@ -179,6 +179,45 @@ ROMX $2C
 	"Text 7"
 ROMX $2D
 	"Text 8"
+ROMX $40
+	"Text 9"
+ROMX $41
+	"Text Silph"
+ROMX $42
+	"Text Safari"
+ROMX $43
+	"Text Routes 1"
+ROMX $44
+	"Text Routes 2"
+ROMX $45
+	"Text Viridian"
+ROMX $46
+	"Text Tower"
+ROMX $47
+	"Text Cinnabar"
+ROMX $48
+	"Text League"
+ROMX $49
+	"Text Pewter"
+ROMX $4A
+	"Text Vermilion"
+ROMX $4B
+	"Text Saffron"
+ROMX $4C
+	"Text Moon"
+ROMX $4D
+	"Text Mansion"
+ROMX $4E
+	"Text Routes 3"
+ROMX $4F
+	"Text Cerulean"
+ROMX $50
+	"Text Celadon"
+ROMX $51
+	"Text Underground"
+ROMX $52
+	"Text 2 Extra"
+
 ROMX $2E
 	"Pokédex Text"
 ROMX $2f
