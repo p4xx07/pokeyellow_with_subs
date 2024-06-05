@@ -8,6 +8,9 @@ Welcome to the **Pokémon Yellow with Subtitles** project! This project aims to 
 
 This project translates the text of Pokémon Yellow into the desired language using the Google Translator API. Players can set their preferred language in the Python script and generate a new version of the game with translated subtitles.
 
+The first line will attempt to be in your target language, while the second line will be in english.
+If there is no room for this, you will first see multiple lines in your target language followed by english lines.
+
 <img width="400" alt="image" src="https://github.com/p4xx07/pokeyellow_with_subs/assets/50495900/5700ad92-323d-4dea-8911-8b8602a98fa4">
 <img width="400" alt="image" src="https://github.com/p4xx07/pokeyellow_with_subs/assets/50495900/e1d5ae06-bb20-4e60-927c-4e40c8773a39">
 <img width="400" alt="image" src="https://github.com/p4xx07/pokeyellow_with_subs/assets/50495900/b5444e0b-6399-4d20-9280-62a9abd129f6">
