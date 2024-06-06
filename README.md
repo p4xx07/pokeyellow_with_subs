@@ -1,6 +1,6 @@
 
 
-# Pokémon Yellow with Subtitles
+# Pokémon Yellow with Subtitles - Language Learning
 
 Welcome to the **Pokémon Yellow with Subtitles** project! This project aims to provide a fun and interactive way to learn new languages by playing Pokémon Yellow with translated subtitles.
 
