@@ -29,7 +29,7 @@ _FuchsiaGoodRodHouseFishingGuruReceivedGoodRodText::
 
 	para "<PLAYER> alındı"
 	line "<PLAYER> received"
-	line "A @"
+	line "@"
 	text_ram wStringBuffer
 	text "!@"
 	text_end

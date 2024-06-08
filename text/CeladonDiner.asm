@@ -69,7 +69,7 @@ _CeladonDinerGymGuideImFlatOutBustedText::
 
 _CeladonDinerGymGuideReceivedCoinCaseText::
 	text "<PLAYER> alındı"
-	line "A @"
+	line "@"
 	text_ram wStringBuffer
 	text "!@"
 	text_end

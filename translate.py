@@ -92,15 +92,15 @@ def go(input_directory, output_directory):
 
 
                     if directive in ['text']:
-                        if len(translated_text) > MAX_LINE_LENGTH  and not re.search(r'<[^>]+>', translated_text):
-                            translated_lines.append(f'\ttext "{translated_text[0:MAX_LINE_LENGTH]}"')
-                            translated_lines.append(f'\tline "{translated_text[MAX_LINE_LENGTH:-1]}"')
+                        if len(translated_text) >= MAX_LINE_LENGTH  and not re.search(r'<[^>]+>', translated_text):
+                            translated_lines.append(f'\ttext "{translated_text[0:MAX_LINE_LENGTH-1]}"')
+                            translated_lines.append(f'\tline "{translated_text[MAX_LINE_LENGTH-1:-1]}"')
                         else:
                             translated_lines.append(f'\ttext "{translated_text}"')
                     else: 
-                        if len(translated_text) > MAX_LINE_LENGTH  and not re.search(r'<[^>]+>', translated_text):
-                            translated_lines.append(f'\tpara "{translated_text[0:MAX_LINE_LENGTH]}"')
-                            translated_lines.append(f'\tline "{translated_text[MAX_LINE_LENGTH:-1]}"')
+                        if len(translated_text) >= MAX_LINE_LENGTH  and not re.search(r'<[^>]+>', translated_text):
+                            translated_lines.append(f'\tpara "{translated_text[0:MAX_LINE_LENGTH-1]}"')
+                            translated_lines.append(f'\tline "{translated_text[MAX_LINE_LENGTH-1:-1]}"')
                             translated_lines.append(f'\tpara "{text}"')
                         else:
                             translated_lines.append(f'\tpara "{translated_text}"')

@@ -390,7 +390,7 @@ _OaksLabOakGivesText::
 
 _OaksLabReceivedText::
 	text "<PLAYER> alındı"
-	line "A @"
+	line "@"
 	text_ram wcd6d
 	text "!@"
 	text_end
