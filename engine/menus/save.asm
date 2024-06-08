@@ -481,21 +481,21 @@ ChooseABoxText:
 	text_end
 
 BoxNames:
-	db   "BOX 1"
-	next "BOX 2"
-	next "BOX 3"
-	next "BOX 4"
-	next "BOX 5"
-	next "BOX 6"
-	next "BOX 7"
-	next "BOX 8"
-	next "BOX 9"
-	next "BOX10"
-	next "BOX11"
-	next "BOX12@"
+	db   "KUTU 1"
+	next "KUTU 2"
+	next "KUTU 3"
+	next "KUTU 4"
+	next "KUTU 5"
+	next "KUTU 6"
+	next "KUTU 7"
+	next "KUTU 8"
+	next "KUTU 9"
+	next "KUTU10"
+	next "KUTU11"
+	next "KUTU12@"
 
 BoxNoText:
-	db "BOX No.@"
+	db "KUTU Sayı@"
 
 EmptyAllSRAMBoxes:
 ; marks all boxes in SRAM as empty (initialisation for the first time the

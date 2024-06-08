@@ -134,7 +134,7 @@ _PartyMenuSwapMonText::
 _PotionText::
 	text_ram wcd6d
 	text_start
-	line "@ tarafından kurtarıldı"
+	line "tarafından kurtarıldı @"
 	text_decimal wHPBarHPDifference, 2, 3
 	text "!"
 	done
@@ -195,7 +195,7 @@ _ReviveText::
 _RareCandyText::
 	text_ram wcd6d
 	text "büyüdü"
-	line "@ seviyesine kadar"
+	line "seviyesine kadar @"
 	text_decimal wCurEnemyLVL, 1, 3
 	text "!@"
 	text_end
@@ -361,7 +361,7 @@ _DepositWhichMonText::
 _MonWasStoredText::
 	text_ram wStringBuffer
 	text "öyleydi"
-	line "@ Kutusunda saklanan"
+	line "Kutusunda saklanan @"
 	text_ram wBoxNumString
 	text "."
 	prompt

@@ -130,7 +130,7 @@ _OaksAideUhOhText::
 	para "#MON çeşitleri!"
 	line "kinds of #MON!"
 
-	para "@'e ihtiyacın var"
+	para "ihtiyacın var @"
 	text_decimal hOaksAideRequirement, 1, 3
 	text "çeşitler"
 	para "eğer istersen"
@@ -143,7 +143,7 @@ _OaksAideUhOhText::
 _OaksAideComeBackText::
 	text "Ah anlıyorum."
 
-	para "@ aldığında"
+	para "aldığında @"
 	text_decimal hOaksAideRequirement, 1, 3
 	text_start
 	para "çeşit, geri dön"

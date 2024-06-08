@@ -42,7 +42,7 @@ _DaycareGentlemanMonHasGrownText::
 
 	para "Seviyeye göre,"
 	line "By level, it's"
-	line "@ tarafından büyütüldü"
+	line "tarafından büyütüldü @"
 	text_decimal wDayCareNumLevelsGrown, 1, 3
 	text "!"
 

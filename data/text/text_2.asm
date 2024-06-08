@@ -1752,7 +1752,7 @@ _ExpPointsText::
 _GrewLevelText::
 	text_ram wcd6d
 	text "büyüdü"
-	line "@ seviyesine kadar"
+	line "seviyesine kadar @"
 	text_decimal wCurEnemyLVL, 1, 3
 	text "!@"
 	text_end

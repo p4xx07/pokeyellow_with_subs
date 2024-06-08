@@ -41,9 +41,8 @@ def translate_text_preserving_placeholders(text, placeholders):
     for part in parts:
         replaced = part
 
-        if re.search(r'<[^>]+>', part):
-            for literal, placeholder in placeholders.items():
-                replaced = replaced.replace(literal, placeholder)
+        for literal, placeholder in placeholders.items():
+            replaced = replaced.replace(literal, placeholder)
         
         translated = GoogleTranslator(source='en', target='tr').translate(replaced)
         time.sleep(0.1)
